@@ -88,7 +88,6 @@ const initTinder = () => {
     const containerStartingCard = document.querySelector('.calculating');
     const containerStart = document.querySelector('.calculating--cards');
 
-
     containerStartingCard.classList.add('hidden');
     containerStart.classList.add('hidden');
 
